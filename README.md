@@ -1,2 +1,2 @@
 # Donald Duck
- WIA1002 Assignment
+ WIX1002 Assignment
